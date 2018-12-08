@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Footer css start */
+footer{
+  position: absolute;
+    bottom: 0;
+    text-align: center;
+    background: blue;
+    width: 100%;
+}
+/* Footer css end  */
